@@ -8,4 +8,6 @@
     <string name="retry">Retry</string>
     <string name="remove">Stop</string>
     <string name="test">Test</string>
+    <string name="download_page">Download Page</string>
+    <string name="download_url">http://apps.lidroid.com/apiv2/dl/0000000/com.lidroid.fileexplorer</string>
 </resources>
